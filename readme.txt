@@ -10,8 +10,9 @@ Use of strncmp
 Use of strxfrm [LEARN LOCALE TO UNDERSTAND THIS]
 Use of memchr
 Use of strchr
-Use of 
-Use of 
-Use of 
-Use of 
-Use of 
+Use of strcspn
+Use of strpbrk
+Use of strrchr
+Use of strspn
+Use of strstr
+Use of strtok
