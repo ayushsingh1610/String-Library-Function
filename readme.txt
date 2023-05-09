@@ -16,3 +16,5 @@ Use of strrchr
 Use of strspn
 Use of strstr
 Use of strtok
+Use of strcasecmp/strncasecmp
+Use of memset
